@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://ru.pinterest.com/pin/209980401370225090/",
+    "worker": 0,
+    "duration_ms": 163,
+    "finished_at": "2025-10-30T21:58:54+03:00"
+  },
+  {
+    "url": "https://ru.pinterest.com/pin/4151824652305457/",
+    "worker": 2,
+    "duration_ms": 168,
+    "finished_at": "2025-10-30T21:58:54+03:00"
+  },
+  {
+    "url": "https://ru.pinterest.com/pin/24277285507243971/",
+    "worker": 3,
+    "duration_ms": 458,
+    "finished_at": "2025-10-30T21:58:55+03:00"
+  }
+]

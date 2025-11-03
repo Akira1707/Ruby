@@ -1,0 +1,28 @@
+[
+  {
+    "file": "sensor1.csv",
+    "worker": 0,
+    "records": 4,
+    "temp_avg": 23.7,
+    "temp_min": 22.4,
+    "temp_max": 25.0,
+    "hum_avg": 58.0,
+    "hum_min": 55.0,
+    "hum_max": 60.0,
+    "duration_ms": 0,
+    "finished_at": "2025-10-30T21:59:27+03:00"
+  },
+  {
+    "file": "sensor2.csv",
+    "worker": 1,
+    "records": 5,
+    "temp_avg": 23.36,
+    "temp_min": 21.8,
+    "temp_max": 25.1,
+    "hum_avg": 58.6,
+    "hum_min": 56.0,
+    "hum_max": 61.0,
+    "duration_ms": 1,
+    "finished_at": "2025-10-30T21:59:27+03:00"
+  }
+]
