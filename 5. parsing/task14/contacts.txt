@@ -1,0 +1,6 @@
+Hello, my email is john.doe@example.com and my phone +1-202-555-0175.
+Contact our support: support@company.org, tel: 202 555 0133
+Invalid email: user@@example.com
+Call +44 20 7946 0958 for UK office.
+Emails: alice@example.com, bob.smith@example.net
+Phone: (555) 123-4567 or 555-987-6543

@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Program Files\\scala-cli-x86_64-pc-win32\\scala-cli.exe",
+    "bsp",
+    "--json-options",
+    "D:\\4 курсе\\Ruby\\Ruby\\task8\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "D:\\4 курсе\\Ruby\\Ruby\\task8\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "D:\\4 курсе\\Ruby\\Ruby\\task8\\.scala-build\\ide-envs.json",
+    "D:\\4 курсе\\Ruby\\Ruby\\task8\\task8.scala"
+  ],
+  "version": "1.9.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

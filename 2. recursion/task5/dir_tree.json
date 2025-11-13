@@ -1,0 +1,15 @@
+{
+    "type": "dir",
+    "name": "test_folder",
+    "children": [
+    {"type": "file", "name": "fie2.txt"},
+    {"type": "file", "name": "file1.txt"},
+    {
+        "type": "dir",
+        "name": "subdir",
+        "children": [
+        {"type": "file", "name": "file3.txt"}
+        ]
+    }
+    ]
+}

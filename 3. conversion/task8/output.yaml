@@ -1,0 +1,9 @@
+person: 
+  -
+    name: John
+    email: john@example.com
+    age: 30
+  -
+    name: Mary
+    email: mary@example.com
+    age: 25

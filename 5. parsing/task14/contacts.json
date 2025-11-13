@@ -1,0 +1,5 @@
+{
+  "emails": ["john.doe@example.com", "support@company.org", "alice@example.com", "bob.smith@example.net"],
+  "phones": ["+1-202-555-0175", "202 555 0133", "+44 20 7946 0958", "(555) 123-4567", "555-987-6543"]
+}
+

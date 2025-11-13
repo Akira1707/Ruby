@@ -1,0 +1,4 @@
+ECHO:Hello from Lua
+QUOTE
+ECHO:Testing Lua client
+UNKNOWN
